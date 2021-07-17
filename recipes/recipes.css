@@ -26,3 +26,36 @@ h1 {
   border: 2px solid #679b9b;
   border-radius: 40px;
 }
+
+.ingredients {
+  display: block;
+  margin: 10px auto;
+  padding: 5px 20px;
+  width: 180px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #ffb6b6;
+  border: 2px solid #679b9b;
+  border-radius: 40px;
+}
+
+.ingredientList {
+  color: #679b9b;
+  font-size: 18px;
+}
+
+.instructions {
+  display: block;
+  margin: 10px auto;
+  padding: 5px 20px;
+  width: 180px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #ffb6b6;
+  border: 2px solid #679b9b;
+  border-radius: 40px;
+}
+.instructionsList {
+  color: #679b9b;
+  font-size: 18px;
+}
