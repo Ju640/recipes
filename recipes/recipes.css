@@ -80,8 +80,8 @@ h1 {
   border-radius: 40px;
 }
 .instructionsList {
-  margin: 0px 310px;
-  text-align: justify;
+  margin: 10px auto;
+
   color: #679b9b;
   font-size: 20px;
 }
