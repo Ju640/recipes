@@ -4,8 +4,7 @@ body {
 }
 
 h1 {
-  margin: 20px 360px;
-  padding: 15px;
+  margin: 20px;
   font-size: 56px;
   color: #ffffff;
   text-shadow: -2px 1px 0 #679b9b;
@@ -16,7 +15,7 @@ h1 {
 
 .links {
   display: inline-block;
-  margin: 25px 70px;
+  margin: 25px 0;
   padding: 25px 50px;
   background-color: #ffffff;
   border: 2px solid #679b9b;
@@ -24,7 +23,6 @@ h1 {
   transition: all 200ms ease-in-out;
   opacity: 2;
 }
-
 .links:hover {
   opacity: 0.5;
 }
@@ -33,7 +31,6 @@ h1 {
   font-size: 60px;
   color: #679b9b;
 }
-
 .codedby {
   color: #679b9b;
 }
@@ -44,4 +41,5 @@ h1 {
 }
 .codedbylink:hover {
   font-weight: 800;
+  color: #679b9b;
 }
