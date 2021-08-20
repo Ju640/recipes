@@ -4,7 +4,6 @@ body {
 }
 
 h1 {
-  margin: 0 360px 20px 360px;
   padding: 15px;
   font-size: 56px;
   color: #ffffff;
@@ -29,15 +28,24 @@ h1 {
   border-radius: 40px;
 }
 
+.returnToLink:hover {
+  color: #ffb6b6;
+  font-style: italic;
+}
+
 .links {
-  display: inline-block;
   margin: 20px 15px;
   transition: all 200ms ease-in-out;
   opacity: 2;
+  border: 5px;
 }
 
 .links:hover {
   opacity: 0.5;
+}
+
+.border-primary {
+  color: #679b9b;
 }
 
 .recipePictures {
