@@ -44,7 +44,7 @@ h1 {
   opacity: 0.5;
 }
 
-.border-primary {
+.border {
   color: #679b9b;
 }
 
@@ -56,4 +56,12 @@ h1 {
 
 .codedby {
   color: #679b9b;
+}
+
+.card {
+  padding: 0;
+}
+
+.testbutton {
+  background-color: #fde2e2;
 }
